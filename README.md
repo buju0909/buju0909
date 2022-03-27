@@ -1,4 +1,4 @@
-##  Hello, I’m ♡buju♡
+##  A long time ago. There was a princess...
 - 🌱 My First Programming Language is C
 - 👀 I’m interested in making game and writing story.
 - 🌱 I’m currently learning How to use Unity more better.
