@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m @buju0909
+##  Hi, I’m @buju0909
 - 🌱 My First Programming Language is C
 - 👀 I’m interested in making game and writing story.
 - 🌱 I’m currently learning How to use Unity more better.
